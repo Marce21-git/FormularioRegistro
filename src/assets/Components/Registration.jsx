@@ -15,7 +15,7 @@ const [alert, setAlert] = useState ({
 
   return (
     <>
-      <Header title="Suscríbete con nosotros" /> 
+      <Header title="Crea tu cuenta con nosotros" /> 
       <SocialButton 
         facebook="fa-brands fa-facebook fa-fade"
         github="fa-brands fa-github fa-fade"
